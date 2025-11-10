@@ -7,3 +7,6 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+Book.create!(name: "Ruby", price: 1000, publisher_id: 1)
+Publisher.create!(name: "翔泳社", address: "東京都hogehoge")

@@ -4,8 +4,10 @@ one:
   name: MyString
   published_on: 2025-11-03
   price: 1
+  publisher: one
 
 two:
   name: MyString
   published_on: 2025-11-03
   price: 1
+  publisher: two
